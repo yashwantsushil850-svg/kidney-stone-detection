@@ -317,7 +317,7 @@ Uploaded CT Scan Image
 ![Uploaded Image]()
 
 Stone Detected
-![Stone Detected](https://raw.githubusercontent.com/yashwantsushil850-svg/kidney-stone-detection/main/SCREENSHOTS/stone_detected.png)
+![Stone Detected](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/stone_detected.png)
 
 No Stone Detected
 ![No Stone Detected](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/no_stone_detected.png)
