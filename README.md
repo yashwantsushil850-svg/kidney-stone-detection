@@ -314,7 +314,7 @@ Application Interface
 ![App Interface](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/app_interface.png)
 
 Uploaded CT Scan Image
-![Uploaded Image]()
+![Uploaded Image](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/uploaded_image.png)
 
 Stone Detected
 ![Stone Detected](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/stone_detected.png)
