@@ -314,25 +314,25 @@ OR simply double click run\_app.bat
 
 Application Interface
 
-!\[App Interface](screenshots/app\_interface.png)
+!\[App Interface](SCREENSHOTS/app\_interface.png)
 
 
 
 Uploaded CT Scan Image
 
-!\[Uploaded Image](screenshots/uploaded\_image.png)
+!\[Uploaded Image](SCREENSHOTS/uploaded\_image.png)
 
 
 
 Stone Detected
 
-!\[Stone Detected](screenshots/stone\_detected.png)
+!\[Stone Detected](SCREENSHOTS/stone\_detected.png)
 
 
 
 No Stone Detected
 
-!\[No Stone Detected](screenshots/no\_stone\_detected.png)
+!\[No Stone Detected](SCREENSHOTS/no\_stone\_detected.png)
 
 
 
