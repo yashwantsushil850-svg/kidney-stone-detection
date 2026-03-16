@@ -220,7 +220,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/yashwantsushil850svg/KidneyStoneDetectionApp.git
+git clone https://github.com/yashwantsushil850-svg/KidneyStoneDetectionApp.git
 
 
 
