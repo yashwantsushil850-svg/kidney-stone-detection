@@ -311,7 +311,7 @@ OR simply double click run\_app.bat
 **Application Screenshots:**
 
 Application Interface
-![App Interface](https://raw.githubusercontent.com/yashwantsushil850-svg/kidney-stone-detection/main/SCREENSHOTS/app_interface.png)
+![App Interface](https://github.com/yashwantsushil850-svg/kidney-stone-detection/blob/main/SCREENSHOTS/app_interface.png)
 
 Uploaded CT Scan Image
 ![Uploaded Image](https://raw.githubusercontent.com/yashwantsushil850-svg/kidney-stone-detection/main/SCREENSHOTS/uploaded_image.png)
